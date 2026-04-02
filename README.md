@@ -28,22 +28,30 @@ Audit → Cybersecurity. I analyze logs, investigate alerts, and hunt threats.
 
 ## 🛠️ Toolbox
 
-**Virtualization & Networking**
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco)
+**Virtualization**
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware) 🖥️
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco) 🧩
 
-**Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
+**OS**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux) 🐧
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows) 🪟
 
-**SIEM & Security**
-![Splunk](https://img.shields.io/badge/Splunk-000?style=flat-square&logo=splunk)
-![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch)
-![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat-square)
-![TheHive](https://img.shields.io/badge/TheHive-FFEE00?style=flat-square)
+**SIEM**
+![Splunk](https://img.shields.io/badge/Splunk-000?style=flat-square&logo=splunk) 📊
+![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch) 🔍
+![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat-square) 📦
+![TheHive](https://img.shields.io/badge/TheHive-FFEE00?style=flat-square) 🐝
+
+**Containers**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) 🐳
+
+**Network Security**
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=flat-square) 🔌
+![Nmap](https://img.shields.io/badge/Nmap-0B0B0B?style=flat-square) 🌐
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square) 📡
 
 **Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) 🐍
 
 ---
 
