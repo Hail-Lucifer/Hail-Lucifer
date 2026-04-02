@@ -2,7 +2,7 @@
 
 # 🔥 HAIL THERE, I'M LUCIFER 👹
 
-## 🛡️ SOC Analyst | Ex-Audit (5 yrs) | EN · FR · ES · NL · IT
+## 🛡️ SOC Analyst | Ex-Audit (5 yrs) | 🌍 EN · FR · ES · NL · IT
 
 </div>
 
