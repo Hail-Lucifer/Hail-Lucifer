@@ -39,10 +39,4 @@ Audit → Cybersecurity. I analyze logs, investigate alerts, and hunt threats.
 
 </div>
 
-## 🧰 Toolbox
 
-`Splunk` `ELK` `Graylog` `Docker` `Linux` `Windows` `Python` `Bash`
-
----
-
-> *"Audit taught me risk. Security taught me detection."*
