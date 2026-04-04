@@ -21,6 +21,7 @@ Audit → Cybersecurity. I analyze logs, investigate alerts, and hunt threats.
 | 🔍 **SIEM Showdown** | Splunk vs ELK vs Graylog + real incident #147 |
 | 🐳 **Docker Security** | Container hardening on Debian |
 | 🖥️ **Linux vs Windows Servers** | SOC investigation guide |
+| 🚨 **SOC Incident Reports** | Full kill chain analysis + post-mortem (Case #147) |
 
 👉 *All on my GitHub*
 
