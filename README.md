@@ -23,7 +23,7 @@ Audit → Cybersecurity. I analyze logs, investigate alerts, and hunt threats.
 | 🖥️ **Linux vs Windows Servers** | SOC investigation guide | 🐧 Cross-platform · 🪟 Windows forensics · 🔍 Analysis |
 | 🚨 **SOC Incident Reports** | Full kill chain + post-mortem (Case #147) | 📋 IR · 🎯 MITRE · ✍️ Report writing · 🐝 TheHive |
 
-👉 *All on my GitHub*
+👉 [Explore all projects →](https://github.com/yourusername?tab=repositories)
 
 ---
 
@@ -55,6 +55,7 @@ Audit → Cybersecurity. I analyze logs, investigate alerts, and hunt threats.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) 🐍
 
 ---
+
 
 
 <div align="center">
