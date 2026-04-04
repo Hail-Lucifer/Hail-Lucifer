@@ -16,12 +16,12 @@ Audit → Cybersecurity. I analyze logs, investigate alerts, and hunt threats.
 
 ## 📂 My projects
 
-| Project | Focus |
-|---------|-------|
-| 🔍 **SIEM Showdown** | Splunk vs ELK vs Graylog + real incident #147 |
-| 🐳 **Docker Security** | Container hardening on Debian |
-| 🖥️ **Linux vs Windows Servers** | SOC investigation guide |
-| 🚨 **SOC Incident Reports** | Full kill chain analysis + post-mortem (Case #147) |
+| Project | Focus | Key Skills |
+|---------|-------|------------|
+| 🔍 **SIEM Showdown** | Splunk vs ELK vs Graylog + incident #147 | 📊 SIEM · 📈 Log correlation · ⚠️ Alerting |
+| 🐳 **Docker Security** | Container hardening on Debian | 🐧 Linux · 🔒 Security config · 📦 Isolation |
+| 🖥️ **Linux vs Windows Servers** | SOC investigation guide | 🐧 Cross-platform · 🪟 Windows forensics · 🔍 Analysis |
+| 🚨 **SOC Incident Reports** | Full kill chain + post-mortem (Case #147) | 📋 IR · 🎯 MITRE · ✍️ Report writing · 🐝 TheHive |
 
 👉 *All on my GitHub*
 
