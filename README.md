@@ -23,7 +23,7 @@ Audit → Cybersecurity. I analyze logs, investigate alerts, and hunt threats.
 | 🖥️ **Linux vs Windows Servers** | SOC investigation guide | 🐧 Cross-platform · 🪟 Windows forensics · 🔍 Analysis |
 | 🚨 **SOC Incident Reports** | Full kill chain + post-mortem (Case #147) | 📋 IR · 🎯 MITRE · ✍️ Report writing · 🐝 TheHive |
 
-👉 [Explore all projects →](https://github.com/yourusername?tab=repositories)
+👉 [Explore all projects →](https://github.com/Hail-Lucifer?tab=repositories)
 
 ---
 
